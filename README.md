@@ -1,1 +1,1 @@
-Andy's Cosima Cookbook scipts that are in development
+Andy's Cosima Cookbook scripts that are in development
